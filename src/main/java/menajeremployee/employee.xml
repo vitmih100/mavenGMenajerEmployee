@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee id="14">
+    <idnp>6</idnp>
+    <name>rf</name>
+    <surname>tg</surname>
+    <salary>56.0</salary>
+    <hireday>2002-05-04</hireday>
+    <birthday>1979-03-05</birthday>
+    <gender>FEMALE</gender>
+  </employee>
+  <employee id="8">
+    <idnp>6</idnp>
+    <name>aaa</name>
+    <surname>bbb</surname>
+    <salary>89.0</salary>
+    <hireday>2020-01-01</hireday>
+    <birthday>1990-01-01</birthday>
+    <gender>MALE</gender>
+  </employee>
+  <employee id="2">
+    <idnp>6</idnp>
+    <name>Ffff</name>
+    <surname>Vvvv</surname>
+    <salary>4500.0</salary>
+    <hireday>1999-07-05</hireday>
+    <birthday>1981-12-28</birthday>
+    <gender>FEMALE</gender>
+  </employee>
+</employees>
